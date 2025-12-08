@@ -1,0 +1,12 @@
+scikit-learn:
+    type: Web
+    title: Scikit-learn Documentation
+    author: Scikit-learn developers
+    url: https://scikit-learn.org/
+    date: 2024
+
+ds803:
+    type: Misc
+    title: Material da disciplina DS803 - INTELIGÊNCIA COMPUTACIONAL APLICADA I
+    organization: UFPR
+    date: 2025
